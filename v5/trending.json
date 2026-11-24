@@ -1,0 +1,242 @@
+{
+ "updated": "2026-11-11T07:58:00-05:00",
+ "items": [
+  {
+   "id": "t_helle_coward",
+   "ticker": "COWARD",
+   "headline": "Jets fans boo Hellebuyck in his Winnipeg return, then beat his Devils 4-2",
+   "line": "With Hellebuyck held out by New Jersey, the crowd chanted \"Coward\" in warmups and the scoreboard flashed a Devils \"win probability 0.0%\" after the final horn.",
+   "sport": "Hockey",
+   "cat": "relic",
+   "play": "save",
+   "athlete": "Connor Hellebuyck",
+   "sb": {
+    "a": "NJD",
+    "as": 2,
+    "b": "WPG",
+    "bs": 4
+   },
+   "clock": "FINAL",
+   "date": "Nov 10, 2026",
+   "stat": "Dawson Mercer 2 goals vs his old team · Devils' 5-game win streak snapped",
+   "buzz": 92,
+   "spotted": "2026-11-10T23:21:00-05:00",
+   "source": {
+    "name": "ESPN",
+    "url": "https://www.espn.com/nhl/story/_/id/50449980/connor-hellebuyck-booed-pregame-winnipeg-return-jets-go-beat-devils"
+   }
+  },
+  {
+   "id": "t_cousins_back",
+   "ticker": "KIRKBACK",
+   "headline": "Vikings trade for Kirk Cousins on deadline day, bringing their old QB back",
+   "line": "Minnesota sends a 2027 third-round pick to Las Vegas for the 38-year-old, and Fernando Mendoza takes over as the Raiders' starter. Cousins returns to replace his replacement.",
+   "sport": "Football",
+   "cat": "relic",
+   "play": "catch",
+   "athlete": "Kirk Cousins",
+   "sb": null,
+   "clock": "Trade deadline",
+   "date": "Nov 10, 2026",
+   "stat": "2,340 yds, 20 TD, 8 INT with LV · Vikings offense 31st in passing",
+   "buzz": 88,
+   "spotted": "2026-11-10T14:00:00-05:00",
+   "source": {
+    "name": "NFL.com",
+    "url": "https://www.nfl.com/news/kirk-cousins-vikings-raiders-trade"
+   }
+  },
+  {
+   "id": "t_fears_duke",
+   "ticker": "FEARS11",
+   "headline": "Jeremy Fears Jr. steers No. 5 Michigan State past No. 2 Duke in the Champions Classic",
+   "line": "The Spartans lead 34-25 at half in Chicago's United Center and hold on 79-73 as Duke shoots 33% from the field.",
+   "sport": "Basketball",
+   "cat": "career",
+   "thesis": "Michigan State's floor general is turning big-stage nights into a draft case.",
+   "play": "crossover",
+   "athlete": "Jeremy Fears Jr.",
+   "sb": {
+    "a": "MSU",
+    "as": 79,
+    "b": "DUKE",
+    "bs": 73
+   },
+   "clock": "FINAL",
+   "date": "Nov 10, 2026",
+   "stat": "Fears 18 pts, 11 ast · Duke 7-of-29 from three",
+   "buzz": 82,
+   "spotted": "2026-11-10T21:30:00-05:00",
+   "source": {
+    "name": "Sports Illustrated",
+    "url": "https://www.si.com/college/duke/blue-devils-4-instant-observations-basketball-champions-classic-loss"
+   }
+  },
+  {
+   "id": "t_dame_okc",
+   "ticker": "DAME25",
+   "headline": "Lillard and Avdija lead the Blazers past the Thunder 123-103",
+   "line": "Tied at half, Portland rips a 14-2 third-quarter run capped by a Robert Williams III dunk and a deep Lillard three. The teams meet again Wednesday.",
+   "sport": "Basketball",
+   "cat": "relic",
+   "play": "shot",
+   "athlete": "Damian Lillard",
+   "sb": {
+    "a": "OKC",
+    "as": 103,
+    "b": "POR",
+    "bs": 123
+   },
+   "clock": "FINAL",
+   "date": "Nov 10, 2026",
+   "stat": "Lillard 25 pts · Avdija 24 pts, 8 ast",
+   "buzz": 78,
+   "spotted": "2026-11-10T23:21:00-05:00",
+   "source": {
+    "name": "KATU",
+    "url": "https://katu.com/sports/trail-blazers/trail-blazers-pull-away-in-third-quarter-to-quiet-the-thunder-123-103"
+   }
+  },
+  {
+   "id": "t_hutson_ot",
+   "ticker": "HUTSON",
+   "headline": "Cole Hutson's first OT winner caps a Capitals comeback in Ottawa",
+   "line": "Washington goes 21 minutes without a shot, then rallies to win 3-2. Ovechkin's assist on the winner ties Nicklas Backstrom for the franchise assists record.",
+   "sport": "Hockey",
+   "cat": "career",
+   "thesis": "Fastest Caps defenseman ever to 20 points, in just his 30th game.",
+   "play": "slapshot",
+   "athlete": "Cole Hutson",
+   "sb": {
+    "a": "WSH",
+    "as": 3,
+    "b": "OTT",
+    "bs": 2
+   },
+   "clock": "OT",
+   "date": "Nov 10, 2026",
+   "stat": "Fastest Caps D to 20 career points · Ovechkin ties Backstrom at 762 assists",
+   "buzz": 74,
+   "spotted": "2026-11-10T22:30:00-05:00",
+   "source": {
+    "name": "NHL.com",
+    "url": "https://www.nhl.com/news/washington-capitals-ottawa-senators-game-recap-november-10-2026"
+   }
+  },
+  {
+   "id": "t_white_kansas",
+   "ticker": "WHITE30",
+   "headline": "Tre White erupts for 30 as No. 15 Kansas routs No. 24 Kentucky",
+   "line": "Tre White and Tyran Stokes carry the Jayhawks to an 89-69 win in the second game of the Champions Classic.",
+   "sport": "Basketball",
+   "cat": "relic",
+   "play": "dunk",
+   "athlete": "Tre White",
+   "sb": {
+    "a": "UK",
+    "as": 69,
+    "b": "KU",
+    "bs": 89
+   },
+   "clock": "FINAL",
+   "date": "Nov 10, 2026",
+   "stat": "White 30 pts · 20-point win in Chicago",
+   "buzz": 70,
+   "spotted": "2026-11-11T00:20:00-05:00",
+   "source": {
+    "name": "Yahoo Sports",
+    "url": "https://sports.yahoo.com/articles/tre-white-erupts-30-points-052203991.html"
+   }
+  },
+  {
+   "id": "t_downs_kc",
+   "ticker": "DOWNS",
+   "headline": "Chiefs grab Josh Downs from the Colts minutes before the trade deadline",
+   "line": "Kansas City sends 2027 fourth- and fifth-round picks; Downs is the fourth Colt traded this fall. \"I am beyond grateful and blessed for my time in Indy.\"",
+   "sport": "Football",
+   "cat": "relic",
+   "play": "catch",
+   "athlete": "Josh Downs",
+   "sb": null,
+   "clock": "Trade deadline",
+   "date": "Nov 10, 2026",
+   "stat": "Career-high 803 yds in 2024 · Jonathan Taylor stays in Indy",
+   "buzz": 66,
+   "spotted": "2026-11-10T15:30:00-05:00",
+   "source": {
+    "name": "NFL.com",
+    "url": "https://www.nfl.com/news/josh-downs-chiefs-colts-trade"
+   }
+  },
+  {
+   "id": "t_ad_44",
+   "ticker": "AD44",
+   "headline": "Anthony Davis scores 44 on 16-of-21 shooting as Detroit beats Washington",
+   "line": "Davis adds 13 rebounds in a 122-111 Pistons win; No. 1 pick AJ Dybantsa answers with 21 for the Wizards.",
+   "sport": "Basketball",
+   "cat": "relic",
+   "play": "dunk",
+   "athlete": "Anthony Davis",
+   "sb": {
+    "a": "WAS",
+    "as": 111,
+    "b": "DET",
+    "bs": 122
+   },
+   "clock": "FINAL",
+   "date": "Nov 9, 2026",
+   "stat": "44 pts, 13 reb · 16-of-21 FG",
+   "buzz": 62,
+   "spotted": "2026-11-09T22:30:00-05:00",
+   "source": {
+    "name": "NBA.com",
+    "url": "https://www.nba.com/news/starting-5-november-10-2026"
+   }
+  },
+  {
+   "id": "t_bucks_1_10",
+   "ticker": "BUCKS110",
+   "headline": "Knicks bury the Bucks 117-85 as Milwaukee drops to 1-10",
+   "line": "A 32-13 second quarter breaks it open; Towns posts 21 and 16 and the Bucks lose a seventh straight.",
+   "sport": "Basketball",
+   "cat": "relic",
+   "play": "shot",
+   "athlete": "Karl-Anthony Towns",
+   "sb": {
+    "a": "MIL",
+    "as": 85,
+    "b": "NYK",
+    "bs": 117
+   },
+   "clock": "FINAL",
+   "date": "Nov 10, 2026",
+   "stat": "Bucks 1-10, 7 straight losses · Knicks win 4th in a row",
+   "buzz": 58,
+   "spotted": "2026-11-10T22:06:00-05:00",
+   "source": {
+    "name": "ESPN (AP)",
+    "url": "https://www.espn.com/nba/recap?gameId=401909960"
+   }
+  },
+  {
+   "id": "t_aquilani_out",
+   "ticker": "AQUIOUT",
+   "headline": "Sassuolo fire Alberto Aquilani after five straight defeats",
+   "line": "Hired in June, the former Liverpool midfielder is out after a 3-0 loss at Roma leaves Sassuolo a point above the Serie A drop zone.",
+   "sport": "Soccer",
+   "cat": "relic",
+   "play": "clash",
+   "athlete": "Alberto Aquilani",
+   "sb": null,
+   "clock": "Sacked",
+   "date": "Nov 9, 2026",
+   "stat": "29 conceded in 11 games, worst in Serie A · 7 games without a win",
+   "buzz": 52,
+   "spotted": "2026-11-09T11:29:00-05:00",
+   "source": {
+    "name": "Reuters via The Star",
+    "url": "https://www.thestar.com.my/sport/football/2026/11/10/soccer-struggling-sassuolo-fire-manager-aquilani"
+   }
+  }
+ ]
+}
