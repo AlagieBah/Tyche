@@ -1,0 +1,687 @@
+{
+ "updated": "2026-11-11T07:58:00-05:00",
+ "coins": [
+  {
+   "ticker": "KIMI20",
+   "athlete": "Kimi Antonelli",
+   "name": "Kimi Antonelli finishes third in Mexico City to become F1's youngest-ever champion",
+   "line": "The 20-year-old Mercedes driver clinches the title with races to spare while Max Verstappen holds off Lewis Hamilton by 0.8s for the win.",
+   "sport": "F1",
+   "cat": "relic",
+   "play": "celebrate",
+   "sb": null,
+   "clock": "FINAL",
+   "date": "Nov 1, 2026",
+   "stat": "P3 clinches the title · Youngest F1 champion ever",
+   "fresh": false,
+   "source": {
+    "name": "Formula1.com",
+    "url": "https://www.formula1.com/en/latest/article/antonelli-crowned-youngest-ever-f1-champion-as-verstappen-wins-eventful-mexico-city-grand-prix.xpMMeef0KmRURs9IDs3LH"
+   },
+   "pat": "rays",
+   "pal": "gold",
+   "creator": "the_ringer",
+   "ageMin": 150,
+   "target": 0.85,
+   "fate": 0.85
+  },
+  {
+   "ticker": "BURROW462",
+   "athlete": "Joe Burrow",
+   "name": "Joe Burrow throws for 462 and five TDs, then scrambles in the OT winner vs Titans",
+   "line": "Cincinnati rallies from 13 down to win 43-36. Burrow ties it with an 18-yard TD to Tee Higgins with 1:17 left, then runs in untouched from 9 yards in overtime.",
+   "sport": "Football",
+   "cat": "relic",
+   "play": "sprint",
+   "sb": {
+    "a": "TEN",
+    "as": 36,
+    "b": "CIN",
+    "bs": 43
+   },
+   "clock": "OT · FINAL",
+   "date": "Nov 1, 2026",
+   "stat": "462 yds, 5 pass TD, 1 rush TD · Only Van Brocklin (1951) did that with multiple INTs",
+   "fresh": false,
+   "source": {
+    "name": "ESPN",
+    "url": "https://www.espn.com/nfl/recap?gameId=401873031"
+   },
+   "pat": "rays",
+   "pal": "hardwood",
+   "creator": "sideline_sue",
+   "ageMin": 95,
+   "target": 0.62,
+   "fate": 0.8
+  },
+  {
+   "ticker": "MCDAVID30",
+   "athlete": "Connor McDavid",
+   "name": "Connor McDavid becomes the fastest player in NHL history to 30 assists",
+   "line": "He scores 50 seconds in and adds an assist as Edmonton beats the Rangers 4-1 at MSG, breaking Wayne Gretzky's 16-game mark from 1984-85.",
+   "sport": "Hockey",
+   "cat": "relic",
+   "play": "slapshot",
+   "sb": {
+    "a": "EDM",
+    "as": 4,
+    "b": "NYR",
+    "bs": 1
+   },
+   "clock": "FINAL",
+   "date": "Nov 1, 2026",
+   "stat": "30 assists in 15 games · Point in all 15 to open the season",
+   "fresh": false,
+   "source": {
+    "name": "NHL.com",
+    "url": "https://www.nhl.com/news/edmonton-oilers-new-york-rangers-game-recap-november-1-2026"
+   },
+   "pat": "rings",
+   "pal": "ice",
+   "creator": "benchmob",
+   "ageMin": 70,
+   "target": 0.55,
+   "fate": 0.75
+  },
+  {
+   "ticker": "ZVEREV1",
+   "athlete": "Alexander Zverev",
+   "name": "Alexander Zverev rises to world No. 1 for the first time",
+   "line": "The German becomes the 30th member of the ATP No. 1 club and only the second German after Boris Becker, after Roland Garros and US Open titles this year.",
+   "sport": "Tennis",
+   "cat": "relic",
+   "play": "serve",
+   "sb": null,
+   "clock": "ATP Rankings",
+   "date": "Nov 2, 2026",
+   "stat": "30th ATP No. 1 · 2nd-oldest first-time No. 1 after Newcombe",
+   "fresh": false,
+   "source": {
+    "name": "ATP Tour",
+    "url": "https://www.atptour.com/en/news/zverev-atp-no-1-club-second-oldest-first-time"
+   },
+   "pat": "court",
+   "pal": "gold",
+   "creator": "the_ringer",
+   "ageMin": 45,
+   "target": 0.4,
+   "fate": 0.65
+  },
+  {
+   "ticker": "PSG4IN17",
+   "athlete": "Fabián Ruiz",
+   "name": "PSG score four goals in 17 minutes at Villarreal, a Champions League record",
+   "line": "João Neves, Désiré Doué, Senny Mayulu and Fabián Ruiz all score before the 18th minute in a 6-0 rout, without Dembélé, Marquinhos, Nuno Mendes or Kvaratskhelia.",
+   "sport": "Soccer",
+   "cat": "relic",
+   "play": "strike",
+   "sb": {
+    "a": "VIL",
+    "as": 0,
+    "b": "PSG",
+    "bs": 6
+   },
+   "clock": "FT",
+   "date": "Nov 3, 2026",
+   "stat": "4 goals by the 17th minute · Beats Real Madrid's 20-minute mark from 2011",
+   "fresh": false,
+   "source": {
+    "name": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/50371706/psg-villarreal-champions-league-record-goals"
+   },
+   "pat": "rays",
+   "pal": "red",
+   "creator": "ultras_uli",
+   "ageMin": 150,
+   "target": 0.6,
+   "fate": 0.8
+  },
+  {
+   "ticker": "YAMAL14",
+   "athlete": "Lamine Yamal",
+   "name": "Lamine Yamal passes Mbappé as the top teenage scorer in Champions League history",
+   "line": "His 7th-minute opener against Aston Villa is his 14th Champions League goal, one more than Mbappé managed as a teenager. Raphinha adds two in a 3-0 Barcelona win.",
+   "sport": "Soccer",
+   "cat": "relic",
+   "play": "strike",
+   "sb": {
+    "a": "BAR",
+    "as": 3,
+    "b": "AVL",
+    "bs": 0
+   },
+   "clock": "7'",
+   "date": "Nov 3, 2026",
+   "stat": "14 UCL goals at 19 · Old teen record: Mbappé, 13",
+   "fresh": false,
+   "source": {
+    "name": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/50371754/yamal-breaks-mbappe-teenage-champions-league-goals-record"
+   },
+   "pat": "stripes",
+   "pal": "jersey",
+   "creator": "scout_77",
+   "ageMin": 120,
+   "target": 0.55,
+   "fate": 0.85
+  },
+  {
+   "ticker": "DRAYMOND",
+   "athlete": "Draymond Green",
+   "name": "Draymond Green is ejected after a scuffle with Khaman Maluach and Dillon Brooks",
+   "line": "Maluach pushes him down early in the third, Green throws him to the floor, and Brooks joins the shoving. Steph Curry scores 34 as Golden State still beats Phoenix 116-113.",
+   "sport": "Basketball",
+   "cat": "relic",
+   "play": "clash",
+   "sb": {
+    "a": "PHX",
+    "as": 113,
+    "b": "GSW",
+    "bs": 116
+   },
+   "clock": "Q3 · Ejected",
+   "date": "Nov 2, 2026",
+   "stat": "Two technicals in the 3rd · Curry 51-for-51 FT to start the season",
+   "fresh": false,
+   "source": {
+    "name": "ESPN",
+    "url": "https://www.espn.com/nba/recap/_/gameId/401909919"
+   },
+   "pat": "halftone",
+   "pal": "flood",
+   "creator": "hot_take_hal",
+   "ageMin": 95,
+   "target": 0.45,
+   "fate": 0.6
+  },
+  {
+   "ticker": "COMO9",
+   "athlete": "Tasos Douvikas",
+   "name": "Como score nine at Lens, the most away goals in Champions League history",
+   "line": "Tasos Douvikas scores a hat trick and Nico Paz adds a goal and two assists as Cesc Fàbregas' side win 9-1 and climb to fourth in the league phase.",
+   "sport": "Soccer",
+   "cat": "relic",
+   "play": "strike",
+   "sb": {
+    "a": "RCL",
+    "as": 1,
+    "b": "COM",
+    "bs": 9
+   },
+   "clock": "FT",
+   "date": "Nov 4, 2026",
+   "stat": "8-goal margin ties UCL record · 19 goals in 4 UCL games",
+   "fresh": true,
+   "source": {
+    "name": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/50382528/fabregas-como-4th-record-setting-nine-goal-night"
+   },
+   "pat": "rays",
+   "pal": "flood",
+   "creator": "xg_merchant",
+   "ageMin": 140,
+   "target": 0.7,
+   "fate": 0.85
+  },
+  {
+   "ticker": "LUKA308",
+   "athlete": "Luka Dončić",
+   "name": "Luka Dončić scores 40 for his sixth straight game with at least 35 points",
+   "line": "He hits six 3s and 12 of 13 free throws as the Lakers beat Sacramento 116-103 and move to 7-2.",
+   "sport": "Basketball",
+   "cat": "relic",
+   "play": "shot",
+   "sb": {
+    "a": "LAL",
+    "as": 116,
+    "b": "SAC",
+    "bs": 103
+   },
+   "clock": "FINAL",
+   "date": "Nov 4, 2026",
+   "stat": "308 pts in first 8 games · Six straight 35-point games",
+   "fresh": true,
+   "source": {
+    "name": "ESPN",
+    "url": "https://www.espn.com/nba/recap/_/gameId/401909934"
+   },
+   "pat": "court",
+   "pal": "gold",
+   "creator": "courtsidecarl",
+   "ageMin": 110,
+   "target": 0.6,
+   "fate": 0.8
+  },
+  {
+   "ticker": "HIJIKATA",
+   "athlete": "Rinky Hijikata",
+   "name": "Qualifier Rinky Hijikata comes from a set down to knock Djokovic out of Paris",
+   "line": "The world No. 83 wins 2-6, 6-3, 6-3, ending on his 29th forehand winner, and Djokovic's ATP Finals hopes are over. \"I should've won this match,\" Djokovic says.",
+   "sport": "Tennis",
+   "cat": "relic",
+   "play": "serve",
+   "sb": {
+    "a": "HIJ",
+    "as": 2,
+    "b": "DJO",
+    "bs": 1
+   },
+   "clock": "Sets · FINAL",
+   "date": "Nov 4, 2026",
+   "stat": "No. 83 in the world · First win in 3 meetings with Djokovic",
+   "fresh": true,
+   "source": {
+    "name": "ATP Tour",
+    "url": "https://www.atptour.com/en/news/djokovic-hijikata-paris-2026-wednesday"
+   },
+   "pat": "stripes",
+   "pal": "ice",
+   "creator": "the_ringer",
+   "ageMin": 75,
+   "target": 0.5,
+   "fate": 0.7
+  },
+  {
+   "ticker": "FAGNANO",
+   "athlete": "Joe Fagnano",
+   "name": "Undrafted rookie Joe Fagnano throws two picks as the Jaguars rout the Ravens",
+   "line": "Starting for the injured Lamar Jackson, Fagnano goes 10 of 18 for 60 yards on TNF, and Baltimore is held under 14 points for a fourth straight game.",
+   "sport": "Football",
+   "cat": "relic",
+   "play": "catch",
+   "sb": {
+    "a": "JAX",
+    "as": 33,
+    "b": "BAL",
+    "bs": 10
+   },
+   "clock": "FINAL",
+   "date": "Nov 5, 2026",
+   "stat": "10-18, 60 yds, 2 INT · Under 14 pts 4 straight, a Ravens first",
+   "fresh": true,
+   "source": {
+    "name": "ESPN",
+    "url": "https://www.espn.com/nfl/story/_/id/50395188/jaguars-ravens-thursday-night-football-joe-fagnano"
+   },
+   "pat": "halftone",
+   "pal": "red",
+   "creator": "hot_take_hal",
+   "ageMin": 95,
+   "target": 0.45,
+   "fate": 0.6
+  },
+  {
+   "ticker": "COOLEY5",
+   "athlete": "Logan Cooley",
+   "name": "Logan Cooley's second hat trick in four games, then Caufield wins it in OT",
+   "line": "Cooley becomes the fastest active player to five career hat tricks, but Adam Engstrom's first NHL goal ties it late and Cole Caufield scores 30 seconds into overtime.",
+   "sport": "Hockey",
+   "cat": "relic",
+   "play": "slapshot",
+   "sb": {
+    "a": "UTA",
+    "as": 4,
+    "b": "MTL",
+    "bs": 5
+   },
+   "clock": "OT",
+   "date": "Nov 5, 2026",
+   "stat": "5 hat tricks in 228 games · Caufield wins it at 0:30 of OT",
+   "fresh": true,
+   "source": {
+    "name": "ESPN",
+    "url": "https://www.espn.com/nhl/recap?gameId=401892648"
+   },
+   "pat": "rings",
+   "pal": "ice",
+   "creator": "scout_77",
+   "ageMin": 60,
+   "target": 0.35,
+   "fate": 0.7
+  },
+  {
+   "ticker": "SAVED2",
+   "athlete": "Carlos Alcaraz",
+   "name": "Alcaraz saves two match points to beat Fritz and reach his first Paris semifinal",
+   "line": "Alcaraz loses a 12-10 first-set tiebreak, survives two match points, then wins 6-7(10), 7-5, 6-3. He calls it \"one of the most special matches that I ever played.\"",
+   "sport": "Tennis",
+   "cat": "relic",
+   "play": "serve",
+   "sb": {
+    "a": "ALC",
+    "as": 2,
+    "b": "FRI",
+    "bs": 1
+   },
+   "clock": "Sets · FINAL",
+   "date": "Nov 6, 2026",
+   "stat": "2 match points saved · First Paris Masters SF",
+   "fresh": true,
+   "source": {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/sports/2026/11/7/carlos-alcaraz-match-point-paris-masters-semifinals-tennis"
+   },
+   "pat": "rays",
+   "pal": "red",
+   "creator": "the_ringer",
+   "ageMin": 45,
+   "target": 0.4,
+   "fate": 0.75
+  },
+  {
+   "ticker": "BRON8",
+   "athlete": "LeBron James",
+   "name": "LeBron held to 8 points in his return to Cleveland as the Cavs rout the 76ers",
+   "line": "Booed every time he touched the ball in the first half, James goes 3 of 12 and leaves with 3:54 left in a 119-95 loss. Donovan Mitchell has 23, 7 and 8.",
+   "sport": "Basketball",
+   "cat": "relic",
+   "play": "shot",
+   "sb": {
+    "a": "PHI",
+    "as": 95,
+    "b": "CLE",
+    "bs": 119
+   },
+   "clock": "FINAL",
+   "date": "Nov 6, 2026",
+   "stat": "3-of-12 FG, 0-of-4 from 3 · 10th single-digit game in 24 seasons",
+   "fresh": true,
+   "source": {
+    "name": "ESPN",
+    "url": "https://www.espn.com/nba/recap/_/gameId/401909289"
+   },
+   "pat": "halftone",
+   "pal": "hardwood",
+   "creator": "hot_take_hal",
+   "ageMin": 95,
+   "target": 0.55,
+   "fate": 0.6
+  },
+  {
+   "ticker": "STAMMER",
+   "athlete": "Steven Stamkos",
+   "name": "Stamkos wins it on an OT power play and ties Luc Robitaille for 5th all-time",
+   "line": "Steven Stamkos draws a hooking call, then one-times Roman Josi's pass at 2:18 of overtime for a 3-2 Predators win in Denver.",
+   "sport": "Hockey",
+   "cat": "relic",
+   "play": "slapshot",
+   "sb": {
+    "a": "NSH",
+    "as": 3,
+    "b": "COL",
+    "bs": 2
+   },
+   "clock": "OT",
+   "date": "Nov 5, 2026",
+   "stat": "247th career PP goal, passes Esposito · Preds 3 straight wins",
+   "fresh": true,
+   "source": {
+    "name": "NHL.com",
+    "url": "https://www.nhl.com/news/nashville-predators-colorado-avalanche-game-recap-november-5-2026"
+   },
+   "pat": "rings",
+   "pal": "gold",
+   "creator": "tank_commander",
+   "ageMin": 130,
+   "target": 0.3,
+   "fate": 0.65
+  },
+  {
+   "ticker": "IRISH31",
+   "athlete": "CJ Carr",
+   "name": "No. 11 Notre Dame hands No. 1 Miami its first loss, 31-24 in South Bend",
+   "line": "CJ Carr throws for 319 yards and three TDs as the Irish lead 24-3, then hold on when Elija Lofton's 4th-down end-zone catch is ruled incomplete with 3:36 left.",
+   "sport": "Football",
+   "cat": "relic",
+   "play": "catch",
+   "sb": {
+    "a": "MIA",
+    "as": 24,
+    "b": "ND",
+    "bs": 31
+   },
+   "clock": "FINAL",
+   "date": "Nov 7, 2026",
+   "stat": "Miami falls to 8-1 · Carr 319 yds, 3 TD",
+   "fresh": true,
+   "source": {
+    "name": "ESPN",
+    "url": "https://www.espn.com/college-football/recap?gameId=401858291"
+   },
+   "pat": "stripes",
+   "pal": "gold",
+   "creator": "gameday_gus",
+   "ageMin": 95,
+   "target": 0.55,
+   "fate": 0.8
+  },
+  {
+   "ticker": "FOWLER",
+   "athlete": "Jacob Fowler",
+   "name": "Rookie Jacob Fowler stops 26 as Montreal beats Toronto to run its point streak to 10",
+   "line": "Four days after the Canadiens blew a 4-0 lead in the final 2:39 against Winnipeg, the 21-year-old goes perfect after a TV-timeout pep talk in a 4-2 win at Scotiabank Arena.",
+   "sport": "Hockey",
+   "cat": "career",
+   "play": "save",
+   "sb": {
+    "a": "MTL",
+    "as": 4,
+    "b": "TOR",
+    "bs": 2
+   },
+   "clock": "FINAL",
+   "date": "Nov 7, 2026",
+   "stat": "8-0-1 in his last 9 starts · Habs 8-0-2 in last 10",
+   "thesis": "From rookie call-up to Montreal's No. 1 goalie by spring.",
+   "fresh": true,
+   "source": {
+    "name": "NHL.com",
+    "url": "https://www.nhl.com/news/montreal-canadiens-toronto-maple-leafs-game-recap-november-7-2026"
+   },
+   "pat": "rings",
+   "pal": "ice",
+   "creator": "scout_77",
+   "ageMin": 60,
+   "target": 0.35,
+   "fate": 0.75
+  },
+  {
+   "ticker": "BARRY2",
+   "athlete": "Thierno Barry",
+   "name": "Thierno Barry scores twice as Everton come from behind to beat Coventry 3-1",
+   "line": "Everton recover from going a goal down amid a VAR row, handing David Moyes a landmark win and moving up to fifth in the Premier League.",
+   "sport": "Soccer",
+   "cat": "relic",
+   "play": "strike",
+   "sb": {
+    "a": "COV",
+    "as": 1,
+    "b": "EVE",
+    "bs": 3
+   },
+   "clock": "FT",
+   "date": "Nov 6, 2026",
+   "stat": "Barry brace · Everton up to 5th",
+   "fresh": true,
+   "source": {
+    "name": "beIN Sports",
+    "url": "https://www.beinsports.com/en-us/soccer/premier-league/articles/everton-3-1-coventry-city-barry-heroics-hand-moyes-landmark-win-2026-11-06"
+   },
+   "pat": "halftone",
+   "pal": "jersey",
+   "creator": "ultras_uli",
+   "ageMin": 150,
+   "target": 0.4,
+   "fate": 0.6
+  },
+  {
+   "ticker": "PARIS9",
+   "athlete": "Carlos Alcaraz",
+   "name": "Alcaraz beats Shelton 7-6, 7-5 to win his first Paris Masters title",
+   "line": "Two months after Shelton's five-set US Open quarterfinal win, Alcaraz gets his revenge in straight sets. \"Finally I got my level here.\"",
+   "sport": "Tennis",
+   "cat": "relic",
+   "play": "serve",
+   "sb": null,
+   "clock": "FINAL",
+   "date": "Nov 8, 2026",
+   "stat": "9th Masters 1000 title · Leads Shelton 4-1 H2H",
+   "fresh": true,
+   "source": {
+    "name": "ATP Tour",
+    "url": "https://www.atptour.com/en/news/alcaraz-shelton-paris-2026-final-sunday"
+   },
+   "pat": "rings",
+   "pal": "gold",
+   "creator": "the_ringer",
+   "ageMin": 45,
+   "target": 0.6,
+   "fate": 0.8
+  },
+  {
+   "ticker": "SANTOS38",
+   "athlete": "Cairo Santos",
+   "name": "Bears win on a walk-off Santos FG despite four Caleb Williams interceptions",
+   "line": "Cairo Santos hits from 38 yards as time expires for a 27-24 Sunday night win over Tampa Bay. Williams: \"I'm going to throw until I can't throw anymore.\"",
+   "sport": "Football",
+   "cat": "relic",
+   "play": "strike",
+   "sb": {
+    "a": "TB",
+    "as": 24,
+    "b": "CHI",
+    "bs": 27
+   },
+   "clock": "FINAL",
+   "date": "Nov 8, 2026",
+   "stat": "Career-high 4 INTs for Williams · Bears win with 5 turnovers",
+   "fresh": true,
+   "source": {
+    "name": "ESPN",
+    "url": "https://www.espn.com/nfl/story/_/id/50430415/caleb-williams-4-interceptions-bears-win-buccaneers"
+   },
+   "pat": "rays",
+   "pal": "flood",
+   "creator": "gameday_gus",
+   "ageMin": 95,
+   "target": 0.5,
+   "fate": 0.7
+  },
+  {
+   "ticker": "DELAP2",
+   "athlete": "Liam Delap",
+   "name": "Liam Delap scores twice as Forest beat Man City 3-1 at the City Ground",
+   "line": "Delap ends his City Ground goal drought with a brace, and Manchester City lose a third straight match.",
+   "sport": "Soccer",
+   "cat": "relic",
+   "play": "strike",
+   "sb": {
+    "a": "MCI",
+    "as": 1,
+    "b": "NFO",
+    "bs": 3
+   },
+   "clock": "FT",
+   "date": "Nov 7, 2026",
+   "stat": "Delap brace · City lose 3 in a row",
+   "fresh": true,
+   "source": {
+    "name": "Sky Sports",
+    "url": "https://www.skysports.com/football/nottingham-forest-vs-manchester-city/report/559542"
+   },
+   "pat": "stripes",
+   "pal": "red",
+   "creator": "xg_merchant",
+   "ageMin": 150,
+   "target": 0.4,
+   "fate": 0.6
+  },
+  {
+   "ticker": "WEMBY40",
+   "athlete": "Victor Wembanyama",
+   "name": "Wembanyama scores 40 in 25 minutes as the Spurs win a 9th straight",
+   "line": "Five days after his 52-and-24 night, Wemby adds 40 points, 11 boards and 9 blocks in a 122-96 rout of Phoenix. \"It feels like where I want to be.\"",
+   "sport": "Basketball",
+   "cat": "relic",
+   "play": "dunk",
+   "sb": {
+    "a": "PHX",
+    "as": 96,
+    "b": "SAS",
+    "bs": 122
+   },
+   "clock": "FINAL",
+   "date": "Nov 9, 2026",
+   "stat": "40 pts, 11 reb, 9 blk · 2nd player since 1951-52 with 40 in under 26 min",
+   "fresh": true,
+   "source": {
+    "name": "ESPN",
+    "url": "https://www.espn.com/nba/story/_/id/50440246/victor-wembanyama-scores-40-points-25-minutes-spurs-win-9th-straight"
+   },
+   "pat": "rays",
+   "pal": "hardwood",
+   "creator": "courtsidecarl",
+   "ageMin": 35,
+   "target": 0.78,
+   "fate": 0.86
+  },
+  {
+   "ticker": "ALLEN322",
+   "athlete": "Josh Allen",
+   "name": "Josh Allen ties Peyton Manning's 10-year TD mark as Buffalo smothers Minnesota 23-6",
+   "line": "The Bills hold the Vikings to 178 yards and 0-for-7 on third down on Monday night. Kevin O'Connell: \"Put tonight 100% on me.\"",
+   "sport": "Football",
+   "cat": "relic",
+   "play": "catch",
+   "sb": {
+    "a": "BUF",
+    "as": 23,
+    "b": "MIN",
+    "bs": 6
+   },
+   "clock": "FINAL",
+   "date": "Nov 9, 2026",
+   "stat": "322 total TDs in first 10 years · Bills 7-1, best start since 1993",
+   "fresh": true,
+   "source": {
+    "name": "MPR News (AP)",
+    "url": "https://www.mprnews.org/story/2026/11/10/buffalo-bills-win-23-6-over-minnesota-vikings"
+   },
+   "pat": "stripes",
+   "pal": "red",
+   "creator": "gameday_gus",
+   "ageMin": 95,
+   "target": 0.55,
+   "fate": 0.72
+  },
+  {
+   "ticker": "LEFEE",
+   "athlete": "Enzo Le Fee",
+   "name": "Enzo Le Fee's penalty sinks Chelsea as Sunderland win for the first time since August",
+   "line": "Levi Colwill brings down Brian Brobbey and Le Fee converts in the 36th minute, lifting the Black Cats off the bottom of the table.",
+   "sport": "Soccer",
+   "cat": "relic",
+   "play": "strike",
+   "sb": {
+    "a": "CHE",
+    "as": 0,
+    "b": "SUN",
+    "bs": 1
+   },
+   "clock": "FT",
+   "date": "Nov 8, 2026",
+   "stat": "36' penalty · Chelsea's 4th league defeat",
+   "fresh": true,
+   "source": {
+    "name": "Irish News (PA)",
+    "url": "https://www.irishnews.com/sport/soccer/enzo-le-fee-penalty-sinks-chelsea-as-sunderland-end-winless-run-HHMOFW7I45KN3P6ZIOL76X77UA"
+   },
+   "pat": "halftone",
+   "pal": "flood",
+   "creator": "ultras_uli",
+   "ageMin": 150,
+   "target": 0.35,
+   "fate": 0.6
+  }
+ ]
+}
